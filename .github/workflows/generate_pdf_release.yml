@@ -1,9 +1,9 @@
 name: Generate PDF Release
 
 on:
-  release:
-    types:
-      - published
+  push:
+    branches:
+      - main
 
 jobs:
   generate_pdf_release:
@@ -21,6 +21,8 @@ jobs:
         run: |
           pandoc -s -o README.pdf README.md
 
-      - name: Upload PDF as Release Asset
-        run: |
-          curl -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" -H "Content-Type: application/octet-stream" --data-binary @README.pdf "https://uploads.github.com/repos/${{ github.repository }}/releases/${{ github.event.release.id }}/assets?name=README.pdf"
+      - name: Upload PDF as Workfow Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: README.pdf
+          path: README.pdf
