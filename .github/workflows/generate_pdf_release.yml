@@ -22,7 +22,8 @@ jobs:
           pandoc -s -o README.pdf README.md
 
       - name: Upload PDF as Release Asset
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-release-asset@v1
         with:
-          name: README.pdf
-          path: README.pdf
+          asset_path: README.pdf
+          asset_name: README.pdf
+          asset_content_type: application/pdf
