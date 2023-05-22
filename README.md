@@ -10,13 +10,11 @@ Being part of a team to which I can contribute with my skills, allowing me to gr
 
 ## Personal Information
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deborah-mizrahi-940457210/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/debimizfel)
-[![Email](https://img.shields.io/badge/Email-debimizfel%40gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:debimizfel@gmail.com)
-[![Phone](https://img.shields.io/badge/📞Phone-%2B972%2053--351--8816-blue?style=for-the-badge)](tel:+972533518816)
-![Location](https://img.shields.io/badge/Location-Jerusalem,%20Israel-red?style=for-the-badge&logo=google-maps)
-
-
+- **Location** - Jerusalem, Israel
+- **Email** - [debimizfel@gmail.com](mailto:debimizfel@gmail.com)
+- **Phone** - [+972 53 351 8816](tel:+972533518816)
+- **LinkedIn** - https://www.linkedin.com/in/deborah-mizrahi-940457210/
+- **GitHub** - https://github.com/debimizfel
 
 ## Skills
 
