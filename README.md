@@ -20,7 +20,7 @@ Being part of a team to which I can contribute with my skills, allowing me to gr
 
 ## Skills
 
-- **Languages** - 🇪🇸 Spanish, 🇬🇧 English, 🇮🇱 Hebrew
+- **Languages** - Spanish, English, Hebrew
 - **Frontend** - ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat)
  ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat)
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
