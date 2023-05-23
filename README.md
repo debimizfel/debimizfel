@@ -19,17 +19,17 @@ Being part of a team to which I can contribute with my skills, allowing me to gr
 ## Skills
 
 - **Languages** - Spanish, English, Hebrew
-- **Frontend** - ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat)
- ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat)
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
- ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- **Frontend** - ![Flutter](https://raster.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+ ![Dart](https://raster.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat)
+ ![HTML](https://raster.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+ ![CSS](https://raster.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+ ![JavaScript](https://raster.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
-- **Backend** - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
- ![Java](https://img.shields.io/badge/Java-007396?style=flat)
+- **Backend** - ![SQL](https://raster.shields.io/badge/SQL-4479A1?style=flat)
+ ![Java](https://raster.shields.io/badge/Java-007396?style=flat)
 
-- **Other** - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
- ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+- **Other** - ![Git](https://raster.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+ ![Figma](https://raster.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 - Responsible, fast learner, team player, creative, organized.
 
