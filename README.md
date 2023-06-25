@@ -11,8 +11,8 @@ Being part of a team to which I can contribute with my skills, allowing me to gr
 ## Personal Information
 
 - **Location** - Jerusalem, Israel
-- **Email** - [debimizfel@gmail.com](mailto:debimizfel@gmail.com)
 - **Phone** - [+972 53 351 8816](tel:+972533518816)
+- **Email** - [debimizfel@gmail.com](mailto:debimizfel@gmail.com)
 - **LinkedIn** - https://www.linkedin.com/in/deborah-mizrahi-940457210/
 - **GitHub** - https://github.com/debimizfel
 
