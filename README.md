@@ -1,6 +1,6 @@
 # Deborah Mizrahi
 
-### Front-end Developer
+### Full Stack Developer
 
 I am a fullstack programmer with two years of work experience and two years of academic study in the field, specializing in both back-end systems and front-end design. I am known for my quick learning abilities and enthusiasm for collaborative teamwork, coupled with a keen interest in acquiring new skills. My strong sense of responsibility and diligent work ethic have been instrumental in my previous projects. Committed to professional growth, I am always seeking opportunities to broaden my skill set and contribute effectively to team objectives.
 
