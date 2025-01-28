@@ -23,7 +23,7 @@ jobs:
           pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf
 
       - name: Upload PDF as Workfow Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: README.pdf
           path: README.pdf
