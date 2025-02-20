@@ -44,14 +44,6 @@ Being part of a team to which I can contribute with my skills, allowing me to gr
 
 ## Work Experience
 
-### Kolel Or Torah
-
-A freelance project to create this organization's website and app. This full stack project has its front end developed with Flutter and Dart, and its back end with Python and FastAPI. The database is PostgreSQL. The project is currently in development.
-
-- Full stack, Flutter, Dart, Python, FastAPI, PostgreSQL
-- Mexico city, Mexico.
-- April 2023 - Present
-
 ### Italcambio Organization
 
 I worked with several banking applications, which used blockchain and facial recognition technologies. I also worked on the UI design.
